@@ -50,9 +50,9 @@ $(function(){
 
   $('#vegas').vegas({
         slides: [
-            { src: '../image/startup-593327__340.jpg' },
-            { src: '../image/home-office-336373__340.jpg' },
-            { src: '../image/writing-1149962__340.jpg' },
+            { src: 'image/startup-593327__340.jpg' },
+            { src: 'image/home-office-336373__340.jpg' },
+            { src: 'image/writing-1149962__340.jpg' },
         ],
 
         transition:'zoomOut',

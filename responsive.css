@@ -1,0 +1,119 @@
+@media all and (max-width: 1000px){
+
+
+  .top-heading h1 {
+    font-size: 45px;
+  }
+
+  .top-heading p {
+    font-size: 25px;
+  }
+
+  .btn-contact {
+    font-size: 24px;
+  }
+
+  .cards {
+    padding-bottom: 0;
+  }
+
+  .card {
+    margin: 0 auto;
+    height: 600px;
+    float: none;
+    width: 510px;
+  }
+
+  .card .desc {
+    float: none;
+    width: 80%;
+    margin: 0 auto ;
+  }
+
+  .card img {
+    padding-bottom: 30px;
+  }
+
+  .desc h1 {
+    text-align: center;
+  }
+
+  .abouts {
+    display: block;
+    width: 100%;
+  }
+
+  .about {
+    /* margin-top: 120px; */
+    width: 60%;
+    margin: 0 auto;
+    float: none;
+    margin-top: 120px;
+    padding-bottom: 30px;
+  }
+
+  .contact-inner {
+    height: 170px;
+  }
+
+  .contact-inner h2 {
+    font-size: 14px;
+  }
+
+  .contact-inner span {
+    font-size: 12px;
+  }
+
+  .contact-textarea h2 {
+    font-size: 14px;
+  }
+
+  .contact-textarea span {
+    font-size: 12px;
+  }
+
+}
+
+@media all and (max-width: 670px){
+  .header-menu{
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .btn-contact {
+    width: 80%;
+    font-size: 18px;
+    border-radius: 5px;
+
+  }
+
+  .top-heading h1 {
+    font-size: 36px;
+  }
+
+  .top-heading p {
+    font-size: 18px;
+  }
+
+  .change-btn {
+    font-size: 24px;
+  }
+
+  .next-btn {
+    padding: 0 10px 0 13px;
+    right: 10px;
+  }
+
+  .prev-btn {
+    padding: 0 13px 0 10px;
+    left: 10px;
+    /* z-index: 10; */
+  }
+
+  .header-logo img {
+    /* z-index: 9; */
+  }
+}
